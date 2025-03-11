@@ -15,8 +15,8 @@
 * [Scrum](https://docs.google.com/presentation/d/12A0-CyqawSL3fmc_Y4ZMHb7kygKS4Xb79mYzwGbcaQM/edit?usp=sharing)
 
 ## Lektioner
-* **Måndag** - Gemensamt: Föreläsning
-* **Tisdag** - Gemensamt: Föreläsning
-* **Onsdag** - Gemensamt: Föreläsning
-* **Torsdag** - Gemensamt: Grupparbete
-* **Fredag** - Gemensamt: Grupparbete
+* **Måndag** - Gemensamt: Föreläsning. EM: Eget arbete.
+* **Tisdag** - Gemensamt: Föreläsning. EM: Eget arbete.
+* **Onsdag** - Gemensamt: Föreläsning. EM: Eget arbete.
+* **Torsdag** - Grupparbete
+* **Fredag** - Grupparbete
