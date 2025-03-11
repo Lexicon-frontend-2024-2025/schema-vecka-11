@@ -16,7 +16,7 @@
 
 ## Lektioner
 * **Måndag** - Gemensamt: Föreläsning. EM: Eget arbete.
-* **Tisdag** - Gemensamt: Föreläsning. EM: Eget arbete.
-* **Onsdag** - Gemensamt: Föreläsning. EM: Eget arbete.
+* **Tisdag** - Gemensamt: Föreläsning. EM: Grupparbete - börja skissa på projektet. Diskutera ramar/begränsningar ni ska ha. Skapa repo, sedan gh project. Lägg in user stories som issues i repot.
+* **Onsdag** - Gemensamt: Föreläsning. EM: Eget arbete - börja skissa på projektet. Diskutera ramar ni ska ha. Skapa repo, sedan gh project. Lägg in user stories som issues i repot.
 * **Torsdag** - Grupparbete
 * **Fredag** - Grupparbete
