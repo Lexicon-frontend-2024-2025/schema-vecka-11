@@ -7,6 +7,9 @@
 #### E-Learning:
 #### Utvalda för denna veckan:
 
+## Läsning
+* [Scrum](https://www.scrum.org/learning-series/what-is-scrum/)
+
 ### Projektlänk:
 [Grupparbete](https://github.com/Lexicon-frontend-2024-2025/grupparbete-agilt)
 
